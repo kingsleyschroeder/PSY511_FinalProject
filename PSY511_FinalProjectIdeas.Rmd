@@ -9,6 +9,8 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+<!-- Well, I would say that Idea 1 would be a bit easier to take on because it is very concrete. But, I don't want to discourage you from thinking about Idea 2. Why don't you do some digging on your own about MTurk, and we can discuss it after Spring Break? -->
+
 ## Idea 1
 
 One idea I have for my final project would be to create a website and a workflow outline for my masters thesis project. I got some good feedback on my workflow assignment, and I feel like I could definitely expand on the detail of the project steps. I also really liked the examples that were shown in class with video footage of the different aspects of the research project, from recruitment to actual study protocols. Because I developed a qualitative interview for my masters thesis, it would be good to try to get the word out about the measure and motivate other researchers to use that approach to understanding children's metacognitions of gender. 
