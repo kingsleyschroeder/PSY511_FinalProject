@@ -1,0 +1,25 @@
+---
+title: 'PSY 511: Final Project Ideas'
+author: "Kingsley M. Schroeder"
+date: "2/12/2017"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Idea 1
+
+One idea I have for my final project would be to create a website and a workflow outline for my masters thesis project. I got some good feedback on my workflow assignment, and I feel like I could definitely expand on the detail of the project steps. I also really liked the examples that were shown in class with video footage of the different aspects of the research project, from recruitment to actual study protocols. Because I developed a qualitative interview for my masters thesis, it would be good to try to get the word out about the measure and motivate other researchers to use that approach to understanding children's metacognitions of gender. 
+This type of documentation would also be helpful because I'm currently in the process of recruiting an undergraduate sample that would participate in a study mirroring my masters thesis with younger children. Having the process documented and clearly outlined before I begin the project would allow me to better utilize my RAs and trust that they would be able to replicate the masters thesis protocol.
+
+
+## Idea 2
+
+My other idea is to create an mturk project for a study that I was hoping to conduct as a follow-up to my master's thesis. I had a lot of difficulty recruiting families from ethnically and socioeconomically diverse backgrounds to participate in a study explicitly about gender development. Parents were reluctant to allow a researcher interview their children about their gender beliefs, especially in the given social climate.
+Thus, I think it would be really interesting to conduct a study about parents' willingness to participate in gender-related research with their children, investigating the barriers to recruitnment across different populations.
+I know that we won't reach the mturk topics until after spring break, so I don't know how I'll decide between these ideas- any input is much appreciated!
+
+
+
